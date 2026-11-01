@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Pramod
+# Hi 👋, I'm Pramod S.
 ### Senior Quality Automation Architect & AI SDET Lead
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pramods7&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Pramod's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=pramods7&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Pramod S's GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pramods7&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 
 <br>
@@ -110,5 +110,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ Star any repo if you find it helpful! Designed & maintained by <a href="https://github.com/pramods7">Pramod</a></sub>
+  <sub>⭐️ Star any repo if you find it helpful! Designed & maintained by <a href="https://github.com/pramods7">Pramod S.</a></sub>
 </div>
