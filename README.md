@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Pramod S.
+# Hi 👋, I am Pramod Shinde
 ### Senior Quality Automation Architect & AI SDET Lead
 
 <p align="center">
